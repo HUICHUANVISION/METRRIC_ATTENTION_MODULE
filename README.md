@@ -21,11 +21,17 @@ This repository contains the implementation of the **Metric Attention Module (MA
 │   └── data  
 
 │   └── Implementation   
+
 │   └── CPDP_results/
+
 ├── Interpretable_EXPERIMENTAL/           # Interpretable_Experimental model & data
+
 │   └── data  
+
 │   └── Interpretable results/
+
 ├── requirements.txt
+
 └── README.md
 
 📊 Outputs
