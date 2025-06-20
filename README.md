@@ -5,13 +5,21 @@ This repository contains the implementation of the **Metric Attention Module (MA
 
 ## 📂 Project Structure
 ├── models/
+
 │   └── metric_attention_module.py   # MAM module 
+
 ├── WPDP_EXPERIMENTAL/           # WPDP_Experimental model & data
+
 │   └── data  
+
 │   └── Implementation
+
 │   └── WPDP_results/
+
 ├── CPDP_EXPERIMENTAL/           # CPDP_Experimental model & data
+
 │   └── data  
+
 │   └── Implementation   
 │   └── CPDP_results/
 ├── Interpretable_EXPERIMENTAL/           # Interpretable_Experimental model & data
